@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/food-schedule-react/static/css/main.8438041f.chunk.css",
+    "main.js": "/food-schedule-react/static/js/main.39972941.chunk.js",
+    "main.js.map": "/food-schedule-react/static/js/main.39972941.chunk.js.map",
+    "runtime-main.js": "/food-schedule-react/static/js/runtime-main.810c3dd9.js",
+    "runtime-main.js.map": "/food-schedule-react/static/js/runtime-main.810c3dd9.js.map",
+    "static/js/2.2b367528.chunk.js": "/food-schedule-react/static/js/2.2b367528.chunk.js",
+    "static/js/2.2b367528.chunk.js.map": "/food-schedule-react/static/js/2.2b367528.chunk.js.map",
+    "static/js/3.ce49a76d.chunk.js": "/food-schedule-react/static/js/3.ce49a76d.chunk.js",
+    "static/js/3.ce49a76d.chunk.js.map": "/food-schedule-react/static/js/3.ce49a76d.chunk.js.map",
+    "index.html": "/food-schedule-react/index.html",
+    "static/css/main.8438041f.chunk.css.map": "/food-schedule-react/static/css/main.8438041f.chunk.css.map",
+    "static/js/2.2b367528.chunk.js.LICENSE.txt": "/food-schedule-react/static/js/2.2b367528.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.810c3dd9.js",
+    "static/js/2.2b367528.chunk.js",
+    "static/css/main.8438041f.chunk.css",
+    "static/js/main.39972941.chunk.js"
+  ]
+}
